@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **AI/ML carrer**
 
-- 👨‍💻 All of my projects are available at <a href = "www.rajendraacharya.me">rajendra </a>
+- 👨‍💻 All of my projects are available at ** <a href = "www.rajendraacharya.me">www.rajendraacharya.me</a> **
 
 - 💬 Ask me about **flutter, AI/ML, UI/UX Design**
 
