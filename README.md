@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rajendra Acharya</h1>
-<h2 align="center">Professionally, I am UI/UX designer and If you want to hire me please visit my portfolio on this link:  <a href = "https://dribbble.com/rajendraacharya1ls">Dribble.com</a></h2>
 <h4 align="center">AWS Solution Architect | AI/ML Enthusiast | Passionate Problem Solver | Python & Flutter Developer|UI/UX Designer</h4>
 
 
