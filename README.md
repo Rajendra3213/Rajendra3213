@@ -8,18 +8,6 @@
 
 - 🌱 I’m currently learning **Django,DevOps**
 
-- 👯 I’m looking to collaborate on **Simulation and Modeling**
-
-- 🤝 I’m looking for help with **AI/ML carrer**
-
-- 👨‍💻 All of my projects are available at ** <a href = "www.rajendraacharya.me">www.rajendraacharya.me</a> **
-
-- 💬 Ask me about **flutter, AI/ML, UI/UX Design**
-
-- 📫 How to reach me **rajendraacharya1ls@gmail.com**
-
-- ⚡ Fun fact **I think I am highly motivated Student**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/rajendra-acharya-58856a234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/rajendra-acharya-58856a234" height="30" width="40" /></a>
