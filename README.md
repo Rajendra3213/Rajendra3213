@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajendra Acharya</h1>
-<h4 align="center">AWS Solution Architect | AI/ML Enthusiast | Passionate Problem Solver | Python & Flutter Developer|UI/UX Designer</h4>
+<h4 align="center">Cloud Engineer</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendra3213&label=Profile%20views&color=0e75b6&style=flat" alt="rajendra3213" /> </p>
